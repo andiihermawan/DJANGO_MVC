@@ -1,0 +1,163 @@
+nav{
+    float: right;
+}
+
+li{
+    margin:10px 20px 0px 20px;
+    display: inline-block;
+    color: black;
+}
+#alpha{
+    font-size: 20px;
+}
+.background{
+    background-color: #21C1D3;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 75px 60px 30px 60px;
+    margin-bottom: 50px;
+    
+}
+.alphatech_academy{
+    color: white;
+    font-size: 50px;
+}
+.alpha{
+    color: white;
+    font-size: 18px;
+    padding-right: 280px;
+    padding-left: 280px;
+}
+
+#foto{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: 200px;
+    margin-right: 50px;
+}
+
+#kata{
+    margin-top: 10px;
+    padding-right: 150px;
+}
+
+.judul{
+    font-size: 25px;
+    margin-bottom: 50px;
+}
+
+#learn{
+    margin:0 auto;
+    display: table;
+}
+
+.logo{
+    margin:0 auto;
+    display: table;
+    border: 1px;
+    border-color: grey;
+}
+
+#logo{
+    margin: 50px;
+    width: 10%;
+
+
+}
+
+.kata_footer{
+    font-size: 25px;
+}
+
+.footer_logo{
+    background-color: #21C1D3;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 0px 0px 0px 0px;
+    margin-bottom: 0px;
+}
+.contact_text{
+    color: white;
+}
+.contact_footer{
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 0px; 
+}
+
+.foto_blog{
+    margin:0 auto;
+    display: table;
+}
+
+#foto_blog{
+    width: 48%;
+}
+.span_blog_kiri{
+    margin-left: 325px;
+}
+
+.span_blog_kanan{
+    margin-left: 400px;
+}
+
+.h2_blog{
+    margin-left: 325px;
+}
+
+.p_blog{
+    margin-left: 325px;
+    margin-right: 350px;
+    text-align: left;
+}
+
+.a_blog{
+    margin-left: 325px;
+}
+
+/* .mentee_margin{
+    margin-top: 100px;
+    margin-bottom: 100px;
+} */
+
+.mentee_foto{
+    width: 50%;
+    margin-left: 325px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding: 40px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    
+}
+
+
+.author_kiri{
+    margin-left: 300px;
+}
+
+.author_kanan{
+    margin-left: 50px;
+    text-align: left;
+}
+
+iframe{
+    margin:0 auto;
+    display: table;
+    padding: 20px;
+    width: 50px 100px;
+}
+.h2_author{
+    margin-left: 300px;
+}
+
+.p_author{
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: left;
+}

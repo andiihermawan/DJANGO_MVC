@@ -11,6 +11,9 @@ class Mentee(models.Model):
     mobile = models.TextField(max_length=255)
     nickname = models.CharField(max_length=255)
     addres = models.TextField(max_length=255)
+    
+    def __str__(self):
+        return self.name
 
 class BlogPost(models.Model):
     created = models.DateTimeField(default=timezone.now)
