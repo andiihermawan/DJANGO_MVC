@@ -139,11 +139,12 @@ li{
 
 .author_kiri{
     margin-left: 300px;
+    margin-right: 5px;
 }
 
 .author_kanan{
     margin-left: 50px;
-    text-align: left;
+    text-align: right;
 }
 
 iframe{
